@@ -15468,10 +15468,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _modals_tabs__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modals/tabs */ "./src/js/modals/tabs.js");
 
 
- // window.addEventListener('DOMContentLoaded', () => {
-//     modals();
-//     tabs('.glazing_slider', '.glazing_block', '.glazing_content', 'active');
-// });
 
 window.addEventListener('DOMContentLoaded', function () {
   Object(_modals_modals__WEBPACK_IMPORTED_MODULE_1__["default"])();
